@@ -1,0 +1,1 @@
+我是将model_p5_wi_9938_9470_6503.pth.tar提取state到state.pt,然后再转torchscipt到my_model3.pt,然后用pnnx转ncnn失败，在win和ubantu上错误如图
